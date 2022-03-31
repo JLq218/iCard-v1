@@ -3,7 +3,7 @@ Curso realizado hasta la gestión de usuario
 
 
 SUPERUSUARIO
-Email: josheplq@gmail.com
+Email: josheplq@gmail.com \n
 Contraseña jlq321
 
 Ubicación del entorno virtual
